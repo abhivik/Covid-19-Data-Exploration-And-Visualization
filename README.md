@@ -32,7 +32,7 @@ This project focuses on exploring and visualizing Covid19 data using various too
 
 ## Tableau Dashboard
 
-Explore the interactive Tableau dashboard for a detailed analysis: [Covid19 Status Till October 2023 Dashboard](https://public.tableau.com/app/profile/abhijit.mandape/viz/Covid19StatusTillDecember2023/Covid19December2023?publish=yes)
+Explore the interactive Tableau dashboard for a detailed analysis: [Covid19 Status Till December 2023 Dashboard](https://public.tableau.com/app/profile/abhijit.mandape/viz/Covid19StatusTillDecember2023/Covid19December2023?publish=yes)
 
 ## Dependencies
 

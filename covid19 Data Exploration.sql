@@ -84,5 +84,4 @@ select dea.continent, dea.location, dea.date, dea.population,
 from coviddeaths dea
 join covidvaccinations vac on dea.location = vac.location and dea.date = vac.date
 where dea.continent is not null
-order by 2,3
-limit 200;
+order by 2,3;

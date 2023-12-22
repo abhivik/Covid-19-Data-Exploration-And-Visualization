@@ -32,7 +32,7 @@ This project focuses on exploring and visualizing Covid19 data using various too
 
 ## Tableau Dashboard
 
-Explore the interactive Tableau dashboard for a detailed analysis: [Covid19 Status Till October 2023 Dashboard](https://public.tableau.com/app/profile/abhijit.mandape/viz/Covid19StatusTillOctober2023/Dashboard1?publish=yes)
+Explore the interactive Tableau dashboard for a detailed analysis: [Covid19 Status Till October 2023 Dashboard](https://public.tableau.com/app/profile/abhijit.mandape/viz/Covid19StatusTillDecember2023/Covid19December2023?publish=yes)
 
 ## Dependencies
 
@@ -44,4 +44,4 @@ Explore the interactive Tableau dashboard for a detailed analysis: [Covid19 Stat
 - Pandasql
 - Tableau Desktop
 
-![Dashboard 1 (1)](https://github.com/abhivik/Covid-19-Data-Exploration-And-Visualization/assets/34742262/b98e99de-c48c-4f59-9c77-33ee5de7fe7b)
+![Covid19 December 2023](https://github.com/abhivik/Covid-19-Data-Exploration-And-Visualization/assets/34742262/133d5c62-b4a0-4edf-8fd6-73abbb1ec8a0)
